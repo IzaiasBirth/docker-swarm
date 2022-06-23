@@ -1,0 +1,5 @@
+# Worker
+docker swarm join --token SWMTKN-1-19tegjnzo4n85pyq2gnga53vtsea2zdnvpfukdxw4b7h54u0r9-5h8qqf7b81bk2ujzr2xp3syxc 10.1.9.223:2377
+
+# Manager
+docker swarm join --token SWMTKN-1-19tegjnzo4n85pyq2gnga53vtsea2zdnvpfukdxw4b7h54u0r9-91j2o9bsu9ph5yperkbg4w49q 10.1.9.223:2377
